@@ -12,5 +12,4 @@
 * 2. Edit script and put in your FTP UserName/Password in the Server Variables section.
 * 3. Start - RUn - Shell:sendto
 * 4. Paste shortcut here.
-*
  **************************************************************************************
