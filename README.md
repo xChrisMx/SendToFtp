@@ -13,3 +13,5 @@
 * 3. Start - RUn - Shell:sendto
 * 4. Paste shortcut here.
  **************************************************************************************
+
+![image](https://github.com/user-attachments/assets/f9a0b7f6-0ebd-4e2f-a8c4-a2ba8c31eb89)
